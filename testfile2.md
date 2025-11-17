@@ -1,3 +1,6 @@
 testfile2
+Amidst a collapsed world, 
+Her words echoed out, 
+thank you for bringing us to ourselves
 
-boy next door
+we are different, but we go together
