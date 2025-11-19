@@ -94,8 +94,8 @@ jobs:
 
       - name: Send event to CloudRollback API
         env:
-          API_URL: ${{ secrets.CR_API_URL }}
-          API_KEY: ${{ secrets.CR_API_KEY }}
+           API_URL: https://ieeguhrobg.execute-api.us-east-1.amazonaws.com/prod
+           API_KEY: jQKXkxrNGH8eJddiFX8AX5PngLVT82Mh2sg0KbqO
         shell: bash
         run: |
           set -euo pipefail
