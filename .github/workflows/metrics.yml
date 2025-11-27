@@ -5,7 +5,7 @@ name: cloudrollback-metrics
 on:
   push:
     branches:
-      - master       
+      - '**'      
     # paths:
     #   - "**/*.md" # file type filter optional
 
